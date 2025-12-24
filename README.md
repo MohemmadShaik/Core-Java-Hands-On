@@ -5,11 +5,11 @@
 
  Primitive Data Types : Total we have 8 Primitive data types in Java
 
- byte stores 1 byte  
- short stores 2 bytes  
- int stores 4 bytes  
- long stores 8 bytes  
- float stores 4 bytes  
- double stores 8 bytes  
- boolean 1 byte  
- char 1 byte  
+ byte    --> 1 byte  
+ short   --> 2 bytes  
+ int     --> 4 bytes  
+ long    --> 8 bytes  
+ float   --> 4 bytes  
+ double  --> 8 bytes  
+ boolean --> 1 byte  
+ char    --> 1 byte  
