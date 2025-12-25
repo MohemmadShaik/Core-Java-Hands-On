@@ -13,3 +13,7 @@
  double  --> 8 bytes  
  boolean --> 1 byte  
  char    --> 1 byte  
+
+byte, short, int and long used for whole numbers
+
+Keynote : 
