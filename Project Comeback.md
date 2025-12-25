@@ -26,3 +26,22 @@ Inside our Account domain model, keep balance private and provide controlled acc
 ### Explain Encapsulation vs Abstraction in one single sentence.
 A6. Encapsulation focuses on data security, whereas abstraction focuses on simplifying design by hiding complexity.
 
+## Data types in Java
+
+ Primitive Data Types : Total we have 8 Primitive data types in Java
+
+ byte    --> 1 byte  
+ short   --> 2 bytes  
+ int     --> 4 bytes  
+ long    --> 8 bytes  
+ float   --> 4 bytes  
+ double  --> 8 bytes  
+ boolean --> 1 byte  
+ char    --> 1 byte  
+
+byte, short, int and long used for whole numbers
+
+## Keynote :
+ 1.The default data type of whole number in Java is int
+ 2.If we perform any of the operation on the whole number the
+    resultant is always a integer.
