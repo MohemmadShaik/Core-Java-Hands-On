@@ -67,8 +67,18 @@ Build a rock-solid Java foundation with clear interview articulation before movi
 
 ---
 
-## ⏭️ Next Day Focus (Day 2)
-- Constructors
-- `this` keyword
-- `static` (memory + usage)
-- CodeShuttle content integration begins
+## Key Learnings
+- Java source code (.java) is compiled into bytecode (.class) using javac
+- JVM executes bytecode, not source code
+- Platform independence is achieved through JVM, not OS
+- JVM handles memory management and JIT compilation
+
+## MCQ Score
+- Day 1 Score: 9/10
+- Weak Area: JVM vs Compiler responsibility
+
+### Quiz – Day 1 (27 DEC 2025)
+- Topic: Abstraction & Encapsulation
+- Score: 15/15
+- Confidence: High
+- Key clarity: Abstraction reduces complexity, encapsulation controls access
