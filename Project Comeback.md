@@ -45,3 +45,7 @@ byte, short, int and long used for whole numbers
  1.The default data type of whole number in Java is int
  2.If we perform any of the operation on the whole number the
     resultant is always a integer.
+
+# Day 2 Java Plan FAQ's (28th Dec 2025)
+
+PENDING...

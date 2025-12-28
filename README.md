@@ -82,3 +82,20 @@ Build a rock-solid Java foundation with clear interview articulation before movi
 - Score: 15/15
 - Confidence: High
 - Key clarity: Abstraction reduces complexity, encapsulation controls access
+--- 
+
+## DAY 2 – Core Java: Inheritance & Polymorphism  
+📅 Date: 28 Dec 2025
+
+### Topics Covered
+- Inheritance (IS-A, overriding, super)
+- Polymorphism (compile-time vs runtime)
+
+### Hands-on
+- Vehicle–Car inheritance example
+- Runtime polymorphism using parent reference
+
+### Interview Notes
+- Prefer composition over inheritance
+- Methods are polymorphic, variables are not
+
