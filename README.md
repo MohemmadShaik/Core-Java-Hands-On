@@ -177,13 +177,93 @@ Microservices is a vast and highly demanded concept and will be covered in **upc
 - Confidently answer **memory, performance, and threading questions**
 - Ready to handle **follow-up interview cross-questions**
 
+
 ### 📝 Practice & Evaluation
 - Hands-on coding examples
 - MCQ quiz (10–15 questions)
 - Mock interview verbal practice script
+
+✅ Day 6 – Spring Boot (Module 1 & Module 2)
+
+Format: 30 MCQs total
+
+Module 1: 15 Questions
+
+Module 2: 15 Questions
+
+Topics Covered:
+
+Spring Boot startup flow
+
+Configuration properties
+
+Profiles
+
+Embedded servers
+
+Outcome: Strong mental model of Spring Boot internals
+
+✅ Day 7 – Core Java (String Concepts)
+
+Format: MCQ Quiz (15 Questions)
+
+Topics Covered:
+
+String immutability
+
+String Constant Pool (SCP)
+
+Heap vs SCP
+
+String vs StringBuilder vs StringBuffer
+
+Outcome: Clear understanding of memory behavior and performance
+
+✅ Day 8 – Core Java (String Revision)
+
+Format: MCQ Quiz (10 Questions)
+
+Topics Covered:
+
+Deep revision of String concepts
+
+Tricky and interview-level scenarios
+
+Outcome: Confidence-level mastery of Java String internals
+
+🔒 Learning Process (Locked Rules)
+
+Daily MCQ Quiz Game is mandatory
+
+Every day ends with:
+
+DAY-n-MCQ-Quiz.md
+
+Day-n-Incorrect-Concepts.md
+
+No rushing concepts
+
+Fundamentals first, complexity later
+
+Deadline-focused (Do or Die mindset)
+
+
 
 ### 🔥 Interview Readiness
 This session builds strong fundamentals required for:
 - Core Java interviews
 - Spring / Spring Boot internals
 - Microservices configuration handling
+
+# Day 9 :  On 10th Jan 2026 started Data Access with Spring Boot (Spring Data JPA) 
+## Requirement : 
+              - Java 25 version,
+              - Eclipse/Intelij IDE, we are using Intelij IDE
+              - Mysql Database
+
+Day 1 : Backend Foundations & Project Setup
+  - Spring Boot project setup the right way
+  - Building REST APIs from scratch
+  - Database integration with Spring Data JPA
+  - LinkedIn Profile review
+
