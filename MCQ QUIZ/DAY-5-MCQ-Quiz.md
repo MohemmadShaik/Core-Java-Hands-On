@@ -1,3 +1,29 @@
+# 📅 Day 5 – Java Strings & Immutability
+
+### 📌 Topics Covered
+- String fundamentals and internal working
+- String Constant Pool (SCP)
+- Heap vs SCP memory behavior
+- String immutability (concept + advantages)
+- String vs StringBuilder vs StringBuffer
+- Thread safety and performance comparison
+- Real-world use cases of immutability
+- `==` vs `.equals()` with Strings
+- Performance impact of String concatenation
+
+### 🎯 Learning Outcome
+- Able to clearly explain **why String is immutable**
+- Understand **when and why to use StringBuilder or StringBuffer**
+- Confidently answer **memory, performance, and threading questions**
+- Ready to handle **follow-up interview cross-questions**
+
+
+### 📝 Practice & Evaluation
+- Hands-on coding examples
+- MCQ quiz (10–15 questions)
+- Mock interview verbal practice script
+
+
 # Day 5 – MCQ Quiz (CodeShuttle)
 ## Spring Boot – Module 1 + Module 2 (Interview-Oriented)
 

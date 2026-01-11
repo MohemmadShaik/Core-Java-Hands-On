@@ -1,3 +1,64 @@
+## 📅 Day 4 – Learning Tracker (Core Java + Spring Boot)
+
+### 🟦 Core Java – Day 4 Topics
+Focus: Strengthening fundamentals frequently tested in interviews
+
+- Object vs Class (conceptual clarity)
+- Memory Management
+  - Stack vs Heap
+- Pass-by-Value (with objects)
+- Immutability
+  - String immutability
+  - Custom immutable class (conceptual)
+- `equals()` vs `hashCode()`
+  - Contract and real-world impact
+
+🎯 Goal:  
+Explain **why things work the way they do**, not just definitions.
+
+---
+
+### 🟩 Spring Framework & Spring Boot – Day 4 Topics
+Focus: Deepening Module 1 understanding and preparing for next modules
+
+- Spring Bean Lifecycle (high-level)
+- Bean Scopes
+  - `singleton`
+  - `prototype`
+- Stereotype Annotations
+  - `@Component`
+  - `@Service`
+  - `@Repository`
+- Dependency Injection (Revision + Comparison)
+  - Field Injection vs Constructor Injection
+- Basic Application Flow
+  - Controller → Service → Repository
+
+🎯 Goal:  
+Build confidence in **core Spring concepts** before moving to MVC and REST.
+
+---
+
+### 🧠 Session Strategy
+- Interactive MCQs (interview-pressure style)
+- Written rehearsal scripts for explanation
+- No microservices deep dive yet (planned for upcoming sessions)
+
+---
+
+### ✅ Status
+- Day 1: Completed
+- Day 2: Completed
+- Day 3: Completed
+- **Day 4: Planned & In Progress**
+
+---
+
+📌 *Note:*  
+Microservices is a vast and highly demanded concept and will be covered in **upcoming sessions** after strengthening Spring fundamentals.
+
+
+
 # Day 4 – Core Java & Spring Boot MCQ Quiz (Solutions)
 
 ---
