@@ -1,43 +1,4 @@
-# 📅 Daily Stand-up Log
-## 📅 Date
-10 Jan 2026 
-## Day 9 | Week 2 – Spring Data JPA Backend Foundations
-
-**Planned Topics Today:** Spring Boot project setup, REST APIs, Spring Data JPA, MySQL integration, LinkedIn profile review
-
-# 📘 Java & Spring Boot Interview Preparation – Learning Tracker
-
-> **Single Point of Contact (SPOC)** for everything we have **covered so far** and what we will **cover going forward**.
-
----
-
-
-
-## 📆 Date
-11 Jan 2026
-
-## 🗓️ Day
-Day 9.2
-
-## 🗂️ Week
-Week 2 – Spring Boot & JPA Mastery
-
-## 🎯 Today's Focus
-- JPA Entity lifecycle
-- @Transactional deep dive
-- Persistence Context & Dirty Checking
-- Fetch types: EAGER vs LAZY
-- N+1 query problem
-- Real-world transaction boundaries
-
-## 🧠 Daily Ritual
-- 30-second self introduction
-- 30-second project explanation
-- MCQ based concept drilling
-- End-of-day Quiz → Markdown + Revision files
-
-
-## 🎯 Overall Goal
+# 🎯 Overall Goal
 
 Build a **rock-solid Java foundation** with clear **interview articulation** before moving to advanced backend topics.
 
@@ -216,4 +177,46 @@ This happens **before any MCQ, mock test, or teaching**.
 
 ---
 
-This README is the **single source of truth** for this preparation journey.
+# 📅 Daily Stand-up Log
+
+## 📅 Date
+10 Jan 2026 
+
+## Day 
+Day 9.1 
+
+## Week 
+Week 2 – Spring Data JPA Backend Foundations
+
+**Planned Topics Today:** Spring Boot project setup, REST APIs, Spring Data JPA, MySQL integration, LinkedIn profile review
+
+# 📘 Java & Spring Boot Interview Preparation – Learning Tracker
+
+> **Single Point of Contact (SPOC)** for everything we have **covered so far** and what we will **cover going forward**.
+
+---
+
+
+## 📆 Date
+11 Jan 2026
+
+## 🗓️ Day
+Day 9.2
+
+## 🗂️ Week
+Week 2 – Spring Boot & JPA Mastery
+
+## 🎯 Today's Focus
+- JPA Entity lifecycle
+- @Transactional deep dive
+- Persistence Context & Dirty Checking
+- Fetch types: EAGER vs LAZY
+- N+1 query problem
+- Real-world transaction boundaries
+
+## 🧠 Daily Ritual
+- 30-second self introduction
+- 30-second project explanation
+- MCQ based concept drilling
+- End-of-day Quiz → Markdown + Revision files
+
