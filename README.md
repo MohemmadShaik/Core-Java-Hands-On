@@ -1,4 +1,7 @@
-# 📅 10 Jan 2026 | Day 9 | Week 2 – Spring Data JPA Backend Foundations
+# 📅 Daily Stand-up Log
+## 📅 Date
+10 Jan 2026 
+## Day 9 | Week 2 – Spring Data JPA Backend Foundations
 
 **Planned Topics Today:** Spring Boot project setup, REST APIs, Spring Data JPA, MySQL integration, LinkedIn profile review
 
@@ -7,6 +10,32 @@
 > **Single Point of Contact (SPOC)** for everything we have **covered so far** and what we will **cover going forward**.
 
 ---
+
+
+
+## 📆 Date
+11 Jan 2026
+
+## 🗓️ Day
+Day 9.2
+
+## 🗂️ Week
+Week 2 – Spring Boot & JPA Mastery
+
+## 🎯 Today's Focus
+- JPA Entity lifecycle
+- @Transactional deep dive
+- Persistence Context & Dirty Checking
+- Fetch types: EAGER vs LAZY
+- N+1 query problem
+- Real-world transaction boundaries
+
+## 🧠 Daily Ritual
+- 30-second self introduction
+- 30-second project explanation
+- MCQ based concept drilling
+- End-of-day Quiz → Markdown + Revision files
+
 
 ## 🎯 Overall Goal
 
