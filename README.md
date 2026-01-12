@@ -144,11 +144,13 @@ Outcome: **Confidence‑level mastery of Java Strings**
 
 ### Day 9.1 – Backend Foundations & Project Setup
 
-* Spring Boot project setup
-* Building REST APIs
-* Database integration with Spring Data JPA
-* LinkedIn profile review
-
+* Spring Boot project setup (Configuration)
+* Entities
+* Repositories 
+* CRUD
+* JPQL and
+* Swagger
+* Database Integration
 ---
 
 ## 🕘 Daily Stand-up Rule
@@ -188,7 +190,7 @@ Day 9.1
 ## Week 
 Week 2 – Spring Data JPA Backend Foundations
 
-**Planned Topics Today:** Spring Boot project setup, REST APIs, Spring Data JPA, MySQL integration, LinkedIn profile review
+**Planned Topics Today:** Spring Boot project setup, REST APIs, Spring Data JPA, MySQL integration, 
 
 # 📘 Java & Spring Boot Interview Preparation – Learning Tracker
 
@@ -220,3 +222,56 @@ Week 2 – Spring Boot & JPA Mastery
 - MCQ based concept drilling
 - End-of-day Quiz → Markdown + Revision files
 
+### LinkedIn profile review
+
+--------------------------
+
+Day 9.1 Plan to add in Readme.md file :
+
+* Spring Boot project setup (Configuration)
+* Entities
+* Repositories 
+* Services
+* CRUD
+* JPQL and
+* Swagger
+* Database Integration
+
+
+We are going to create 4 packages nothing but layers 
+
+Entity
+Repository
+Services
+controller
+
+Intellij IDE Shortcuts :
+
+Ctrl + Space : Intelligence popup a dropdown of a specific class to import respective packages.
+
+
+
+
+
+Interview FAQ's :
+
+Q) @Entity is an interface or class or Annotation?
+Sol : 
+ @Entity is an annotation type; Product is a class.
+(Annotations are internally interfaces in Java.)
+
+ We can't directly say to the interviewer that Entity is an interface. It's a big mistake and misleading as well.
+
+Explanation : Technically we can prove using Java Reflection APIs like isInterface(), isAnnotation()
+
+        System.out.println(Entity.class.isInterface());     // true
+        System.out.println(Entity.class.isAnnotation());    // true
+   
+             Q)Why both true?
+	        Sol: Annotation = special type of interface
+	
+	
+We created a Product.java file which will interact with the tables and coloumns w.r.t 
+the database.
+        System.out.println(Product.class.isInterface());    // false
+        System.out.println(Product.class.isAnnotation());   // false
